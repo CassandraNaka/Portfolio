@@ -1,13 +1,19 @@
 # Cassandra Naka | People Analytics Portfolio
-A collection of projects in HR data analysis, showcasing skills in Excel, Power BI and SQL
+Welcome! I'm a human resources professional with a passion for data analysis. With over 7 years of experience in human resources, I am transitioning into a career in people analytics. 
 
-Welcome! I'm an HR professional interested in transitioning into People Analytics. I'm currently honing my skills in: 
-- Excel for data clean up and reporting
-- PowerBI for creating dashboards
-- SQL for data analysis
+This repository showcases a collection of my data analysis projects, highlight my proficiency with Excel, SQL and Power BI. 
 
-## In Progress
-Regional Comparison: Remote Work and Burnout | Excel and Power BI | A dashboard and report that compares health scores, regionally. 
+Key Strengths: Data Visualization | Process Optimization | Compensation Analysis | Data Integrity & Reporting | Employee Lifecyle Analytics
 
-## Projects 
-[Lego Set Explorer](https://app.fabric.microsoft.com/groups/me/reports/e2a5fbec-81e7-473c-bfe2-c56bce73c9cf/580a031757d2dc6f964c?experience=fabric-developer) | Power BI | A dashboard that allows lego enthuisiasts to find the perfect lego set based on theme, price and age. The dashboard also includes pictures of each set along with information about the number of pieces and recommended ages. 
+## Tools
+HR Tools: Workday, Workday Sandbox, Workday Preview, Bullhorn, Taleo, HRIS systems
+
+Data Tools: Excel (pivot tables, vlookups, dashboards), Power BI, SQL (basic querying), Python (pandas, matplotlib)
+
+Other Tools: Google Suite, Microsoft Office, Notion
+
+
+---
+## Contact Information
+Email: cassandralnaka@gmail.com
+LinkedIn: https://www.linkedin.com/in/cassandranaka/
