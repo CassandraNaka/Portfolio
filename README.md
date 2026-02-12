@@ -12,6 +12,13 @@ Data Tools: Excel (pivot tables, vlookups, dashboards), Power BI, SQL (basic que
 
 Other Tools: Google Suite, Microsoft Office, Notion
 
+## Currently Working On
+
+**Books Dashboard** - organizing personal reading stats database and developing accompanying dashboard
+
+**Aerofit SQL Project** - using SQL to perform descriptive analytics to create customer profiles for fictional company
+
+Studying for PL-300
 
 ---
 ## Contact Information
