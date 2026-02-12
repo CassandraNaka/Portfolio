@@ -12,6 +12,9 @@ Data Tools: Excel (pivot tables, vlookups, dashboards), Power BI, SQL (basic que
 
 Other Tools: Google Suite, Microsoft Office, Notion
 
+## Projects 
+[Atlas Labs](https://github.com/CassandraNaka/atlaslabs-project) | EDA, Power BI | Using people analytics to analyze attrition at a fictional compnany
+
 ## Currently Working On
 
 **Books Dashboard** - organizing personal reading stats database and developing accompanying dashboard
