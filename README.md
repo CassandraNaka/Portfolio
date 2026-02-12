@@ -18,7 +18,7 @@ Other Tools: Google Suite, Microsoft Office, Notion
 
 **Aerofit SQL Project** - using SQL to perform descriptive analytics to create customer profiles for fictional company
 
-Studying for PL-300
+Currently studying for PL-300 certification
 
 ---
 ## Contact Information
