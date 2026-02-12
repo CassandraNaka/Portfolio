@@ -16,4 +16,7 @@ Other Tools: Google Suite, Microsoft Office, Notion
 ---
 ## Contact Information
 Email: cassandralnaka@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/cassandranaka/
+
+Website: [Cassandra Naka | Notion](https://cassandra-naka.notion.site/Cassandra-Naka-23b3a4efbb1f8036a7fcebe30333bc66)
