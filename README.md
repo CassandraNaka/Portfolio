@@ -15,11 +15,11 @@ Other Tools: Google Suite, Microsoft Office, Notion
 ## Projects 
 [Atlas Labs](https://github.com/CassandraNaka/atlaslabs-project) | EDA, Power BI | Using people analytics to analyze attrition at a fictional compnany
 
+[AeroFit](https://github.com/CassandraNaka/Aerofit) | SQL, Excel, EDA | A SQL project analyzing consumer purchasing trends
+
 ## Currently Working On
 
 **Books Dashboard** - organizing personal reading stats database and developing accompanying dashboard
-
-**Aerofit SQL Project** - using SQL to perform descriptive analytics to create customer profiles for fictional company
 
 Currently studying for PL-300 certification
 
