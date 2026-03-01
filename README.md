@@ -1,5 +1,5 @@
 # Cassandra Naka | People Analytics Portfolio
-Welcome! I'm a human resources professional with a passion for data analysis. With over 7 years of experience in human resources, I am transitioning into a career in people analytics. 
+Welcome! I'm a HR professional with a passion for data analysis. With over 7 years of experience in human resources, I am transitioning into a career in people analytics. 
 
 This repository showcases a collection of my data analysis projects, highlight my proficiency with Excel, SQL and Power BI. 
 
