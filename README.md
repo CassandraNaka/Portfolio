@@ -5,13 +5,20 @@ This repository showcases a collection of my data analysis projects, highlight m
 
 Key Strengths: Data Visualization | Process Optimization | Compensation Analysis | Data Integrity & Reporting | Employee Lifecyle Analytics
 
-## Tools
-HR Tools: Workday, Workday Sandbox, Workday Preview, Bullhorn, Taleo, HRIS systems
+## Tools and Expertise
+**HR Tools**: Workday, Workday Sandbox, Workday Preview, ADP, Bullhorn, Taleo, HRIS systems
 
-Data Tools: Excel (pivot tables, vlookups, dashboards), Power BI, SQL (basic querying), Python (pandas, matplotlib)
+**Python**: fundamentals (variables, data types, control flow and functions), data manipulation (pandas, NumPy), writing and executing scripts for data analysis
 
-Other Tools: Google Suite, Microsoft Office, Notion
+**SQL**: query writing, advanced SQL techniques, data extraction and filtering from relational databases
 
+**Excel**: advanced functions (VLOOKUP, INDEX/MATCH, pivot tables), data cleaning, data analysis (charts, conditional formatting), Power Query, dashboards and reporting
+
+**PowerBI**: data import and connections, DAX formula writing, data modeling (relationships, hierarchies, measures, calculated columns), Power Query, dashboard and report creation, data visualization
+
+**Data Analysis**: exploratory data analysis, statiscal thinking and data-driven decision making, HR analytics, data storytelling
+
+---
 ## Projects 
 [Atlas Labs](https://github.com/CassandraNaka/atlaslabs-project) | EDA, Power BI | Using people analytics to analyze attrition at a fictional compnany
 
@@ -19,7 +26,7 @@ Other Tools: Google Suite, Microsoft Office, Notion
 
 ## Currently Working On
 
-**Books Dashboard** - organizing personal reading stats database and developing accompanying dashboard
+Books Dashboard - organizing personal reading stats database and developing accompanying dashboard
 
 Currently studying for PL-300 certification
 
