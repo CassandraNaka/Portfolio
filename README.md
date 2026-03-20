@@ -18,6 +18,8 @@ Key Strengths: Data Visualization | Process Optimization | Compensation Analysis
 
 **Data Analysis**: exploratory data analysis, statiscal thinking and data-driven decision making, HR analytics, data storytelling
 
+**Statistics**: summary statistics, distributions (normal, binomial, Poisson), hypothesis testing
+
 ---
 ## Projects 
 [Atlas Labs](https://github.com/CassandraNaka/atlaslabs-project) | EDA, Power BI | Using people analytics to analyze attrition at a fictional compnany
