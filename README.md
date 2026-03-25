@@ -30,6 +30,8 @@ Key Strengths: Data Visualization | Process Optimization | Compensation Analysis
 
 Books Dashboard - organizing personal reading stats database and developing accompanying dashboard
 
+Clothing Returns Analysis - analyzing a returns dataset to find which sizes, colors, or styles get returned most.
+
 Currently studying for PL-300 certification
 
 ---
