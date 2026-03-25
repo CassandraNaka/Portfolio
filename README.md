@@ -10,7 +10,7 @@ Key Strengths: Data Visualization | Process Optimization | Compensation Analysis
 
 **Python**: fundamentals (variables, data types, control flow and functions), data manipulation (pandas, NumPy), writing and executing scripts for data analysis
 
-**SQL**: query writing, advanced SQL techniques (joins, windowing, CTEs, partitioning), data extraction and filtering from relational databases
+**SQL**: query writing, advanced SQL techniques (joins, subqueries, windowing, CTEs, partitioning), data extraction and filtering from relational databases
 
 **Excel**: advanced functions (VLOOKUP, INDEX/MATCH, pivot tables), data cleaning, data analysis (charts, conditional formatting), Power Query, dashboards and reporting
 
