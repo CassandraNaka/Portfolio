@@ -6,7 +6,7 @@ This repository showcases a collection of my data analysis projects, highlight m
 Key Strengths: Data Visualization | Process Optimization | Compensation Analysis | Data Integrity & Reporting | Employee Lifecyle Analytics
 
 ## Tools and Expertise
-**HR Tools**: Workday, Workday Sandbox, Workday Preview, ADP, Bullhorn, Taleo, HRIS systems
+**HR Tools**: Workday (HCM Core, Compensation, Recruiting, Absence, Journeys, Reporting and Analytics), ADP, Bullhorn, Taleo (Oracle)
 
 **Python**: fundamentals (variables, data types, control flow and functions), data manipulation (pandas, NumPy), writing and executing scripts for data analysis
 
